@@ -152,7 +152,7 @@ Pasajes dentro del párrafo:
 
 * `**Negrita**` da **negrita**.
 
-* `&#96;Código&#96;` da `código` y se marca con el acento agudo (en el
+* `​Código​` da `código` y se marca con el acento agudo (en el
 teclado español hay que pulsar dos veces la tecla para que salga el
 carácter).
 
@@ -170,18 +170,16 @@ Cada párrafo se forma no por las líneas en blanco (como sucede en
 `markdown` estándar) sino por cada línea nueva.
 
 Los bloques de código se marcan entre dos líneas de al menos tres
-acentos agudos (\`\`\`).
+acentos agudos (`\​\​\`).
 
 *** acentos y escapar ***
 
 ```
-```
+`​`​`
 \starttext
 Mi primer documento \ConTeXt
 \stoptext
-```
-```
-```
+`​`​`
 ```
 
 Tiene como resultado:
