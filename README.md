@@ -25,6 +25,22 @@ Se me ocurre que con el sistema de incidencias de Github, no siendo ni
 una lista de correo ni un foro, se puede conseguir que funcione como
 una lista de distribución.
 
+#### Aclaración importante
+
+Por si alguien lo duda, no tengo ningún tipo de relación comercial,
+beneficio económico o interés financiero en Github. Soy un simple
+usuario gratuito que usa y disfruta de la posibilidad de usar sus
+repositorios (sí, sin mucho éxito).
+
+No tengo especial interés en que nadie se suscriba a Github por otros
+motivos distintos de que pueda beneficiarse de sus servicios, si le
+fuesen útiles.
+
+De la inscripción como usuario de Github, de la inscripción en la
+lista (la monitorización de este proyecto) o de la recepción y envío
+de los mensajes, así como de todas las acciones personales, es
+responsable cada uno (o cada una).
+
 ### Modo de inscripción
 
 #### Abrir una cuenta o iniciar sesión
@@ -40,26 +56,43 @@ particularidad de que está en inglés.
 Una vez que hemos iniciado sesión, debemos configurar el recibir las
 notificaciones, al menos por correo electrónico.
 
+Para eso tenemos que pinchar sobre el icono con las herramientas en
+cruz de la esquina superior derecha de la pantalla (es _Account
+settings_, que se muestra si nos ponemos con el ratón sobre el icono).
+Después, hemos de seleccionar en la columna de la izquierda
+_Notification Center_. Y luego marcar los dos campos que muestra la
+imagen.
+
 ![configurar correo](https://raw.github.com/ousia/context-critica/master/img/configura-recibir-correo.png)
 
-Para llegar a ese
+De este modo recibiremos las notificaciones en todas las incidencias
+de Github en las que se nos nombra (se nos nombra cuando en un mensaje
+escriben `@usuario` [con el nombre de usuario de cada cual).
+
 #### Inscripción en la lista
 
-debemos inscribirnos en el sistema
-de incidencias de la lista
-([aquí](https://github.com/ousia/context-critica)] y ahí
-seleccionamos lo que está marcado en la imagen.
+La opción predeterminada de Github es mandarnos un mensaje cada vez
+que nos nombran (como explico en el último párrafo del apartado
+anterior).
+
+Para que el sistema de incidencias de este proyecto funcione de una
+manera análoga a una lista de correo, para que sea una lista de
+distribución, es necesario que «vigilemos» u «observemos» [este
+proyecto](https://github.com/ousia/context-critica)). Lo muestra la
+imagen siguiente.
 
 ![configurar
 correo](https://raw.github.com/ousia/context-critica/master/img/inscribe-lista.png)
 
 En este caso, seleccionamos que nos informe de todas las
-notificaciones. Para que nos lleguen al correo electrónico, debemos
-configurar nuestro usuario con las siguientes opciones.
+notificaciones. De otro modo, como he advertido, sólo nos llegarían
+aquellos mensajes en que alguien nos mencione.
 
 Para cancelar la suscripción lo que hay que hacer es seleccionar
 cualquiera de las otras dos opciones que nos muestra la imagen (en
-[este proyecto](https://github.com/ousia/context-critica)).
+[este proyecto](https://github.com/ousia/context-critica)). Si no se
+quiere recibir mensaje alguno de la lista, es necesario seleccionar
+_Ignoring_.
 
 ### Funcionamiento
 
@@ -70,7 +103,7 @@ información privada a la lista.
 
 
 
-### ¿Cómo se incluyen anexos?
+#### ¿Cómo se incluyen anexos?
 
 Github no permite anexos a los mensajes
 
