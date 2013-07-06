@@ -146,13 +146,47 @@ responde en la página de Github hay una chuleta con el código.
 
 Para quien no sepa, hago un breve resumen, a su vez, de la chuleta.
 
+Pasajes dentro del párrafo:
+
 * `_Cursiva_` da _cursiva_.
+
 * `**Negrita**` da **negrita**.
-* `\`Código\`` da `código` y se marca con el acento agudo (en el
+
+* `&#96;Código&#96;` da `código` y se marca con el acento agudo (en el
 teclado español hay que pulsar dos veces la tecla para que salga el
 carácter).
 
+Si queremos ponerlos, los títulos van del siguiente modo: por cada
+nivel es un carácter almohadilla (#), al comienzo de la línea y
+separada del título por un espacio.
 
+* `#` es para título de primer nivel.
+* `##` es para título de segundo nivel.
+* `###` es para título de tercer nivel.
+* `####` es para título de cuarto nivel.
+* `#####` es para título de quinto nivel.
+
+Cada párrafo se forma no por las líneas en blanco (como sucede en
+`markdown` estándar) sino por cada línea nueva.
+
+Los bloques de código se marcan entre dos líneas de al menos tres
+acentos agudos (`&#96;&#96;&#96;`).
+
+```
+```
+\starttext
+Mi primer documento \ConTeXt
+\stoptext
+```
+```
+
+Tiene como resultado:
+
+```tex
+\starttext
+Mi primer documento \ConTeXt
+\stoptext
+```
 
 #### ¿Cómo se incluyen anexos?
 
