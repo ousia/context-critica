@@ -174,9 +174,13 @@ acentos agudos (`&#96;&#96;&#96;`).
 
 ```
 ```
+```
+```
 \starttext
 Mi primer documento \ConTeXt
 \stoptext
+```
+```
 ```
 ```
 
