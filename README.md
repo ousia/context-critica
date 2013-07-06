@@ -90,13 +90,30 @@ cualquiera de las otras dos opciones que nos muestra la imagen (en
 quiere recibir mensaje alguno de la lista, es necesario seleccionar
 _Ignoring_.
 
+<!-- ### Compromiso de participación
+
+En un campo de gran cultivo personal como es el caso de gente que se
+dedica las humanidades, supongo que estará de más hacer la siguiente
+reflexión. Pero lo aviso para que no haya incomprensiones antes de
+empezar.
+
+La participación en esta lista supone un compromiso personal que se
+resume en la siguiente palabra:
+
+* Respeto. Es *condición indispensable* para permanecer en la lista.
+
+Espero que esto se traduzca en una comunicación electrónica cordial,
+aunque haya las disensiones que pueda haber.
+
+En caso negativo, a la tercera falta de respeto -->
+
 ### Funcionamiento
 
 Es importante advertir que todos los mensajes a la lista son públicos
 (no pueden ser privados). Por tanto, no tiene sentido mandar
 información privada a la lista.
 
-
+Se puede
 
 
 #### ¿Cómo se incluyen anexos?
