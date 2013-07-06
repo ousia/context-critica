@@ -113,7 +113,45 @@ Es importante advertir que todos los mensajes a la lista son públicos
 (no pueden ser privados). Por tanto, no tiene sentido mandar
 información privada a la lista.
 
-Se puede
+Es necesario abrir una incidencia para poder iniciar un hilo. En
+principio, la idea es que las incidencias relacionadas con la lista no
+se cierren. Así se pueden retomar en cualquier momento. Aunque una
+incidencia esté cerrada, pueden hacerse comentarios (y pedir que se
+reabra).
+
+Pueden cerrar una incidencia el administrador o la persona que abrió
+la incidencia. Si la cierra el administrador, sólo la puede volver a
+abrir él. Si la cierra quien la abrió, también la puede volver a abrir.
+
+Se puede responder por correo electrónico a los mensajes recibidos a
+través de correo, aunque no se puedan abrir incidencias así. Si no se
+usa la página de Github, es importante observar dos condiciones:
+
+* Si se cita el mensaje original, es importante borrar toda la
+información del mensaje original que no citemos directamente.
+
+    En la incidencia se verá el mensaje al que se contesta, porque
+    en la página de la incidencia está arriba. Sólo debe dejarse lo
+    que sea estrictamente necesario para contestar.
+
+* El fragmento del mensaje original debe citarse primero para permitir
+quien lea seguir la coherencia lógica de una respuesta.
+
+Como regla general, creo que es buena idea responder con un mensaje vacío.
+
+### Formato
+
+Github usa una versión de `markdown` que es un código ligero. Si se
+responde en la página de Github hay una chuleta con el código.
+
+Para quien no sepa, hago un breve resumen, a su vez, de la chuleta.
+
+* `_Cursiva_` da _cursiva_.
+* `**Negrita**` da **negrita**.
+* ``Código`` da `código` y se marca con el acento agudo (en el
+teclado español hay que pulsar dos veces la tecla para que salga el
+carácter).
+
 
 
 #### ¿Cómo se incluyen anexos?
