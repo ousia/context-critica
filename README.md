@@ -148,7 +148,7 @@ Para quien no sepa, hago un breve resumen, a su vez, de la chuleta.
 
 * `_Cursiva_` da _cursiva_.
 * `**Negrita**` da **negrita**.
-* ``Código`` da `código` y se marca con el acento agudo (en el
+* `\`Código\`` da `código` y se marca con el acento agudo (en el
 teclado español hay que pulsar dos veces la tecla para que salga el
 carácter).
 
