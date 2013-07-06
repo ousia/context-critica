@@ -54,20 +54,16 @@ particularidad de que está en inglés.
 #### Configuración de la recepción de mensajes
 
 Una vez que hemos iniciado sesión, debemos configurar el recibir las
-notificaciones, al menos por correo electrónico.
-
-Para eso tenemos que pinchar sobre el icono con las herramientas en
-cruz de la esquina superior derecha de la pantalla (es _Account
-settings_, que se muestra si nos ponemos con el ratón sobre el icono).
-Después, hemos de seleccionar en la columna de la izquierda
-_Notification Center_. Y luego marcar los dos campos que muestra la
-imagen.
+notificaciones, al menos por correo electrónico. Éste es el [enlace
+directo](https://github.com/settings/notifications), que nos sitúa
+donde la siguiente imagen, en la que hay que marcar dos campos que
+muestra la imagen.
 
 ![configurar correo](https://raw.github.com/ousia/context-critica/master/img/configura-recibir-correo.png)
 
 De este modo recibiremos las notificaciones en todas las incidencias
 de Github en las que se nos nombra (se nos nombra cuando en un mensaje
-escriben `@usuario` [con el nombre de usuario de cada cual).
+escriben `@usuario` [con el nombre de usuario de cada cual]).
 
 #### Inscripción en la lista
 
@@ -78,7 +74,7 @@ anterior).
 Para que el sistema de incidencias de este proyecto funcione de una
 manera análoga a una lista de correo, para que sea una lista de
 distribución, es necesario que «vigilemos» u «observemos» [este
-proyecto](https://github.com/ousia/context-critica)). Lo muestra la
+proyecto](https://github.com/ousia/context-critica). Lo muestra la
 imagen siguiente.
 
 ![configurar
