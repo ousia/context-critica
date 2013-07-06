@@ -29,7 +29,18 @@ una lista de distribución.
 
 Para usar este sistema hay que
 [inscribirse](https://github.com/signup) o [iniciar
-sesión](https://github.com/login?return_to=%2Fousia%2Fcontext-critica%2Fissues) como usuario.
+sesión](https://github.com/login?return_to=%2Fousia%2Fcontext-critica%2Fissues) como usuario. Entiendo que no tiene más dificultad.
+
+Una vez que hemos iniciado sesión, debemos inscribirnos en el sistema
+de incidencias de la lista
+([aquí](https://github.com/ousia/context-critica)] y ahí
+seleccionamos lo que está marcado en la imagen.
+
+Para
+
+En este caso, seleccionamos que nos informe de todas las
+notificaciones. Para que nos lleguen al correo electrónico, debemos
+configurar nuestro usuario con las siguientes opciones.
 
 ### Funcionamiento
 
