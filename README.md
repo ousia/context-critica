@@ -27,23 +27,39 @@ una lista de distribución.
 
 ### Modo de inscripción
 
+#### Abrir una cuenta o iniciar sesión
+
 Para usar este sistema hay que
 [inscribirse](https://github.com/signup) o [iniciar
-sesión](https://github.com/login?return_to=%2Fousia%2Fcontext-critica%2Fissues) como usuario. Entiendo que no tiene más dificultad.
+sesión](https://github.com/login?return_to=%2Fousia%2Fcontext-critica%2Fissues)
+como usuario. Entiendo que no tiene más dificultad que la
+particularidad de que está en inglés.
 
-Una vez que hemos iniciado sesión, debemos inscribirnos en el sistema
+#### Configuración de la recepción de mensajes
+
+Una vez que hemos iniciado sesión, debemos configurar el recibir las
+notificaciones, al menos por correo electrónico.
+
+![configurar correo](https://raw.github.com/ousia/context-critica/master/img/configura-recibir-correo.png)
+
+Para llegar a ese
+#### Inscripción en la lista
+
+debemos inscribirnos en el sistema
 de incidencias de la lista
 ([aquí](https://github.com/ousia/context-critica)] y ahí
 seleccionamos lo que está marcado en la imagen.
 
-![configurar correo](https://raw.github.com/ousia/context-critica/master/img/configura-recibir-correo.png)
+![configurar
+correo](https://raw.github.com/ousia/context-critica/master/img/inscribe-lista.png)
 
 En este caso, seleccionamos que nos informe de todas las
 notificaciones. Para que nos lleguen al correo electrónico, debemos
 configurar nuestro usuario con las siguientes opciones.
 
 Para cancelar la suscripción lo que hay que hacer es seleccionar
-cualquiera de las otras dos opciones que nos muestra la imagen.
+cualquiera de las otras dos opciones que nos muestra la imagen (en
+[este proyecto](https://github.com/ousia/context-critica)).
 
 ### Funcionamiento
 
