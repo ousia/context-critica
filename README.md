@@ -36,11 +36,14 @@ de incidencias de la lista
 ([aquí](https://github.com/ousia/context-critica)] y ahí
 seleccionamos lo que está marcado en la imagen.
 
-Para
+![configurar correo](https://raw.github.com/ousia/context-critica/master/img/configura-recibir-correo.png)
 
 En este caso, seleccionamos que nos informe de todas las
 notificaciones. Para que nos lleguen al correo electrónico, debemos
 configurar nuestro usuario con las siguientes opciones.
+
+Para cancelar la suscripción lo que hay que hacer es seleccionar
+cualquiera de las otras dos opciones que nos muestra la imagen.
 
 ### Funcionamiento
 
