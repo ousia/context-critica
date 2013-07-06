@@ -170,10 +170,10 @@ Cada párrafo se forma no por las líneas en blanco (como sucede en
 `markdown` estándar) sino por cada línea nueva.
 
 Los bloques de código se marcan entre dos líneas de al menos tres
-acentos agudos (`&#96;&#96;&#96;`).
+acentos agudos (\`\`\`).
 
-```
-```
+*** acentos y escapar ***
+
 ```
 ```
 \starttext
