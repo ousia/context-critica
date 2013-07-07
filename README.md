@@ -460,14 +460,14 @@ El uso es como en este caso:
 ```
 > Esto es un párrafo citado.
 
-> Si no queremos que nos haga dos citas separadas, hay que añadir > al
-principio de la línea en blanco que esté en medio.
+> Mientras sólo haya líneas en blanco, Github unirá los párrafos de
+citas en una única cita con varios párrafos.
 ```
 
 > Esto es un párrafo citado.
 
-> Si no queremos que nos haga dos citas separadas, hay que añadir > al
-principio de la línea en blanco que esté en medio.
+> Mientras sólo haya líneas en blanco, Github unirá los párrafos de
+citas en una única cita con varios párrafos.
 
 ##### Listas
 
@@ -475,7 +475,7 @@ Las listas numeradas se escriben con números al principio de la
 línea, un punto y un espacio:
 
 ```
-31. Primero.
+1. Primero.
 
 1. Segundo.
 
@@ -510,10 +510,29 @@ las siguientes listas:
 ```
 1. Primero.
 
+    * Un punto.
+
 1. Segundo.
 
+    * Otro punto.
+
 1. Tercero.
+
+    * Otro punto más.
 ```
+
+1. Primero.
+
+    * Un punto.
+
+1. Segundo.
+
+    * Otro punto.
+
+1. Tercero.
+
+    * Otro punto más.
+
 
 
 ##### Enlaces
