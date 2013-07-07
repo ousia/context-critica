@@ -12,10 +12,10 @@ tipográfica de humanidades.
 
 La finalidad fundamental es tener un espacio de discusión sobre temas
 especializados, sin tener que hacerlo en una lista con una finalidad
-más general (o sencillamente distinta) como la lista ES-TEX. Sirve
+más general —o sencillamente distinta— como la lista ES-TEX. Sirve
 también para la consulta pública posterior, para que alguien usando
-un buscador, encuentre algo sobre el tema (además de tener un lugar en
-el que poder preguntar).
+un buscador, encuentre algo sobre el tema —además de tener un lugar en
+el que poder preguntar—.
 
 Uno de los problemas con ConTeXt y las humanidades es que no existe
 mucha documentación sobre el tema. Ni ningún lugar específico donde
@@ -30,16 +30,16 @@ una lista de distribución.
 Por si alguien lo duda, no tengo ningún tipo de relación comercial,
 beneficio económico o interés financiero en Github. Soy un simple
 usuario gratuito que usa y disfruta de la posibilidad de usar sus
-repositorios (sí, sin mucho éxito).
+repositorios —sí, sin mucho éxito :frowning:—.
 
 No tengo especial interés en que nadie se suscriba a Github por otros
 motivos distintos de que pueda beneficiarse de sus servicios, si le
 fuesen útiles.
 
 De la inscripción como usuario de Github, de la inscripción en la
-lista (la monitorización de este proyecto) o de la recepción y envío
+lista —la monitorización de este proyecto— o de la recepción y envío
 de los mensajes, así como de todas las acciones personales, es
-responsable cada uno (o cada una).
+responsable cada uno —o cada una—.
 
 ### Modo de inscripción
 
@@ -62,14 +62,14 @@ muestra la imagen.
 ![configurar correo](https://raw.github.com/ousia/context-critica/master/img/configura-recibir-correo.png)
 
 De este modo recibiremos las notificaciones en todas las incidencias
-de Github en las que se nos nombra (se nos nombra cuando en un mensaje
-escriben `@usuario` [con el nombre de usuario de cada cual]).
+de Github en las que se nos nombra —se nos nombra cuando en un mensaje
+escriben `@usuario`, con el nombre de usuario de cada cual—.
 
 #### Inscripción en la lista
 
 La opción predeterminada de Github es mandarnos un mensaje cada vez
-que nos nombran (como explico en el último párrafo del apartado
-anterior).
+que nos nombran —como explico en el último párrafo del apartado
+anterior—.
 
 Para que el sistema de incidencias de este proyecto funcione de una
 manera análoga a una lista de correo, para que sea una lista de
@@ -85,8 +85,8 @@ notificaciones. De otro modo, como he advertido, sólo nos llegarían
 aquellos mensajes en que alguien nos mencione.
 
 Para cancelar la suscripción lo que hay que hacer es seleccionar
-cualquiera de las otras dos opciones que nos muestra la imagen (en
-[este proyecto](https://github.com/ousia/context-critica)). Si no se
+cualquiera de las otras dos opciones que nos muestra la imagen —en
+[este proyecto](https://github.com/ousia/context-critica)—. Si no se
 quiere recibir mensaje alguno de la lista, es necesario seleccionar
 _Ignoring_.
 
@@ -110,14 +110,14 @@ En caso negativo, a la tercera falta de respeto -->
 ### Funcionamiento
 
 Es importante advertir que todos los mensajes a la lista son públicos
-(no pueden ser privados). Por tanto, no tiene sentido mandar
+—no pueden ser privados—. Por tanto, no tiene sentido mandar
 información privada a la lista.
 
 Es necesario abrir una incidencia para poder iniciar un hilo. En
 principio, la idea es que las incidencias relacionadas con la lista no
 se cierren. Así se pueden retomar en cualquier momento. Aunque una
-incidencia esté cerrada, pueden hacerse comentarios (y pedir que se
-reabra).
+incidencia esté cerrada, pueden hacerse comentarios —y pedir que se
+reabra—.
 
 Pueden cerrar una incidencia el administrador o la persona que abrió
 la incidencia. Si la cierra el administrador, sólo la puede volver a
@@ -149,7 +149,7 @@ correo, por los siguientes motivos:
     publicarlo.
 
     * Después de publicarlo, en la página se puede editar los
-    mensajes (cada cual los suyos).
+    mensajes —cada cual los suyos—.
 
         Es importante que la edición se use únicamente para corregir
         errores, no para «donde digo ‹digo›, digo Diego›».
@@ -194,7 +194,66 @@ preguntas o respuestas.
     * Si una incidencia ya trata el tema del que queremos preguntar,
     es mejor no abrir una incidencia, sino seguir preguntando en la
     misma. (Si está ya cerrada, podemos responder en esa incidencia y
-    pedir que se abra.)
+    pedir que se reabra.)
+
+    Por supuesto, estas reglas tienen una finalidad de organizar lo
+    mejor posible para su consulta. Es cuestión de aplicarlas de modo
+    razonable, no de seguirlas ciegamente.
+
+* Centrarse en el tema. El tema general de esta lista es ConTeXt y las
+humanidades. Personalmente no tengo ningún problema en que sea TeX, y
+por tanto LaTeX, en humanidades; ahora, ya no uso LaTeX y no sé. Ambos
+son lo suficientemente amplios para que quepa lo que es un ámbito
+común de intereses.
+
+    * No hay temas prohibidos, pero sí que hay espacios inadecuados.
+
+        Las cuestiones de convicciones ---de toda clase--- ajenas a la filosofía o el
+        desarrollo informático, habitualmente sólo producen disputas
+        estériles. En este ámbito están fuera de lugar.
+
+        Personalmente
+
+    * Digresiones
+
+Para quienes pregunten, se pide lo siguiente:
+
+    * Concreción en la pregunta. Es cierto que aprender a preguntar es
+    algo que se mejora con la práctica, pero hay preguntas tan
+    generales que no llegan a cuestionar nada.
+
+        Especialmente, afirmaciones del estilo «algo no me funciona»
+        o «no me funciona», sin más datos, son imposibles de
+        contestar, porque quien está al otro lado desconoce la
+        situación ni lee nuestra mente.
+
+    * Descripción de los detalles relevantes.
+
+    * Ejemplos mínimos de código. No todas las preguntas se refieren
+    al código, pero cuando así sea es esencial proporcionar un
+    fragmento de código que muestre el problema.
+
+        El fragmento ha de ser lo más pequeño posible. Parte del
+        trabajo de elaborar una pregunta supone gastar tiempo en hacer
+        ese ejemplo. Muchas veces ese ejemplo tendremos que hacerlo
+        copiando el archivo que nos da problemas y empezando a borrar
+        líneas.
+
+    * Pedir ayuda no es esperar que te hagan tu trabajo. Esta
+    recomendación resume una actitud sin la que la participación en
+    la lista carece de sentido.
+
+        Es necesario querer aprender. El paso del no saber al saber
+        exige aprendizaje, y éste supone un esfuerzo.
+
+Para quienes respondan, es bueno no olvidar:
+
+    * No suponer conocimientos en quien pregunta.
+
+    * Responder a lo que se pregunta.
+
+    * Adjuntar un ejemplo mínimo de código que se haya compilado
+    correctamente.
 
 ### Formato
 
@@ -210,11 +269,11 @@ Pasajes dentro del párrafo:
 * `**Negrita**` da **negrita**.
 
 * `` `Código` `` da `código` y se marca con el acento agudo (en el
-teclado español [en Linux, al menos] hay que pulsar dos veces la tecla
+teclado español —en Linux, al menos— hay que pulsar dos veces la tecla
 para que salga el carácter).
 
 Si queremos ponerlos, los títulos van del siguiente modo: por cada
-nivel es un carácter almohadilla (`#`), al comienzo de la línea y
+nivel es un carácter almohadilla —`#`—, al comienzo de la línea y
 separada del título por un espacio.
 
 * `#` es para título de primer nivel.
@@ -223,11 +282,11 @@ separada del título por un espacio.
 * `####` es para título de cuarto nivel.
 * `#####` es para título de quinto nivel.
 
-Cada párrafo se forma no por las líneas en blanco (como sucede en
-`markdown` estándar) sino por cada línea nueva.
+Cada párrafo se forma no por las líneas en blanco —como sucede en
+`markdown` estándar—, sino por cada línea nueva.
 
 Los bloques de código se marcan entre dos líneas de al menos tres
-acentos graves (``​`​`​`).
+acentos graves —``​`​`​`—.
 
 ```
 `​`​`​tex
@@ -257,3 +316,5 @@ Si tienes alguna pregunta o comentario sobre este repositorio o la
 lista, [abre una
 incidencia](https://github.com/ousia/context-critica/issues/new).
 
+
+<!-- stay on topic -->
