@@ -450,6 +450,10 @@ El uso es como en este caso:
 añadir la marca de cita separada.
 ```
 
+> Esto es un párrafo citado.
+> Si hay salto de línea, aunque no haya línea en blanco, hay que
+añadir la marca de cita separada.
+
 ##### Listas
 
 Las listas numeradas se escriben con números al principio de la
