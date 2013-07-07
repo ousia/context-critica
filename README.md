@@ -195,7 +195,7 @@ preguntas o respuestas.
     * Si una incidencia contiene más de una pregunta independiente, es
     mejor abrir otra incidencia.
 
-    * Si una incidencia ya trata la pregunta del que queremos plantear,
+    * Si una incidencia ya trata la pregunta que queremos plantear,
     es mejor no abrir una incidencia, sino seguir comentando en la
     anterior. (Si está ya cerrada, podemos responder en esa incidencia
     y pedir que se reabra.)
@@ -207,8 +207,8 @@ preguntas o respuestas.
     seguirlas ciegamente.
 
 * Centrarse en el tema. El tema general de esta lista es ConTeXt y las
-humanidades. Personalmente no tengo ningún problema en que sea TeX, y
-por tanto LaTeX, en humanidades; ahora, ya no uso LaTeX y no sé. Ambos
+humanidades. Personalmente no tengo ningún problema en que sea TeX —por
+tanto LaTeX— y humanidades; ahora, ya no uso LaTeX y no sé. Ambos
 son lo suficientemente amplios para que quepa lo que es un ámbito
 común de intereses.
 
@@ -230,8 +230,9 @@ común de intereses.
         la práctica no tendrían gente suficiente.
 
     * Digresiones, las relevantes. Por supuesto, que hay digresiones
-    muy relevantes de las que aprendemos todos, es una buena
-    disciplina mental no divagar en exceso.
+    muy relevantes de las que aprendemos todos. Sin embargo, no divagar
+    en exceso es una buena disciplina mental de la que nos
+    beneficiamos todos.
 
 * Seguir las indicaciones. Cuando nos hacen una indicación vinculante
 sobre funcionamiento en la lista, deben seguirse o discutirlas
@@ -300,16 +301,16 @@ la lista carece de sentido.
     las cosas no funcionan como creemos que deberían y no tenemos
     la más mínima pista de cómo hacerlas funcionar.
 
-    Por eso es esencial no perder los nervios con quienes nos
-    pretenden ayudar. No se trata de ser autómatas. Es
-    sencillamente que no tienen la culpa de nada, ni están
-    obligados a ayudarnos —aunque lo hagan gustosamente— o
-    mucho menos a aguantarnos.
+        Por eso es esencial no perder los nervios con quienes nos
+        pretenden ayudar. No se trata de ser autómatas. Es
+        sencillamente que no tienen la culpa de nada, ni están
+        obligados a ayudarnos —aunque lo hagan gustosamente— o
+        mucho menos a aguantarnos.
 
-    Si algo nos urge, le hemos dedicado mucho tiempo y no
-    encontramos la solución, es bueno decirlo —siempre con
-    buenas formas—, para que en la medida de lo posible nos
-    ayuden de la mejor manera posible para nosotros mismos.
+        Si algo nos urge, le hemos dedicado mucho tiempo y no
+        encontramos la solución, es bueno decirlo —siempre con
+        buenas formas—, para que en la medida de lo posible nos
+        ayuden de la mejor manera posible para nosotros mismos.
 
     * Lo que podemos nosotros mismos, no lo tenemos que pedir, lo
     podemos hacer. Como en todo proceso de aprendizaje, siempre se
@@ -317,21 +318,21 @@ la lista carece de sentido.
     podemos hacer nosotros con un esfuerzo razonable —aunque nos
     cueste un poco—, no debemos pedírselo a otros.
 
-    Sin ser una requisito, cuando preguntemos es bueno decir que
-    mostremos qué hemos hecho para encontrar la respuesta. O que
-    pidamos orientación para encontrarla. Es relevante, ya no por los
-    demás, sino por nosotros, para que aprendamos realmente.
+        Sin ser una requisito, cuando preguntemos es bueno decir que
+        mostremos qué hemos hecho para encontrar la respuesta. O que
+        pidamos orientación para encontrarla. Es relevante, ya no por los
+        demás, sino por nosotros, para que aprendamos realmente.
 
-    Un caso especialmente claro de lo que no debemos hacer es
-    preguntar que podríamos haber encontrado buscando en internet. Por
-    supuesto, a buscar se aprende, pero siempre debemos intentarlo. Y
-    si no encontramos nada, es bueno decirlo, porque nos pueden
-    aconsejar sobre cómo buscar. Hay un motivo práctico —también
-    egoísta, si queremos— para tratar de buscar antes de preguntar:
-    con un buscador la respuesta está en  segundos, mientras que en la
-    lista la respuesta tardará al menos media hora —con bastante
-    suerte—. Y además acelera nuestro proceso de aprendizaje
-    —siempre personal—.
+        Un caso especialmente claro de lo que no debemos hacer es
+        preguntar que podríamos haber encontrado buscando en internet. Por
+        supuesto, a buscar se aprende, pero siempre debemos intentarlo. Y
+        si no encontramos nada, es bueno decirlo, porque nos pueden
+        aconsejar sobre cómo buscar. Hay un motivo práctico —también
+        egoísta, si queremos— para tratar de buscar antes de preguntar:
+        con un buscador la respuesta está en  segundos, mientras que en la
+        lista la respuesta tardará al menos media hora —con bastante
+        suerte—. Y además acelera nuestro proceso de aprendizaje
+        —siempre personal—.
 
 ##### Respuestas
 
