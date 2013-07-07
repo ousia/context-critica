@@ -141,12 +141,28 @@ exige mucho, me veré obligado a abandonar este proyecto.
 En general, hay las siguientes recomendaciones para todos los
 participantes:
 
-* Aunque puede responderse a incidencias por correo electrónico, mi
-recomendación personal es que
+* Aunque puede responderse a incidencias por correo electrónico —no
+abrirlas—, mi recomendación personal es que no se responda por
+correo, por los siguientes motivos:
 
-* Se puede responder por correo electrónico a los mensajes recibidos a
-través de correo, aunque no se puedan abrir incidencias así. Si no se
-usa la página de Github, es importante observar dos condiciones:
+    * En la página se puede previsualizar el contenido antes de
+    publicarlo.
+
+    * Después de publicarlo, en la página se puede editar los
+    mensajes (cada cual los suyos).
+
+        Es importante que la edición se use únicamente para corregir
+        errores, no para «donde digo ‹digo›, digo Diego›».
+
+    * En la página se pueden anexar imágenes.
+
+    * En la página hay una chuleta del código.
+
+    * En la página se responde directamente y no se añade
+    información innecesaria.
+
+* Si no se usa la página de Github y se responde por correo
+electrónico, es importante observar dos condiciones:
 
     * Si se cita el mensaje original, es importante borrar toda la
     información del mensaje original que no citemos directamente.
@@ -158,7 +174,27 @@ usa la página de Github, es importante observar dos condiciones:
     * El fragmento del mensaje original debe citarse primero para
     permitir quien lea seguir la coherencia lógica de una respuesta.
 
-    Como regla general, creo que es buena idea responder con un mensaje vacío.
+    Como regla general, creo que es buena idea responder con un mensaje
+    vacío al responder por correo electrónico.
+
+* Tanto en las preguntas como en las respuestas, se exige siempre
+respeto a las personas —es condición esencial e indiscutible;
+entiendo que también universalmente compartida— y concreción en las
+preguntas o respuestas.
+
+* Un asunto por incidencia. Eso supone tres cosas:
+
+    * Los asuntos deben ser lo más específicos posibles.
+
+        Por ejemplo, ediciones críticas en ConTeXt no es un asunto.
+
+    * Si una incidencia contiene más de un asunto, es mejor abrir otra
+    incidencia.
+
+    * Si una incidencia ya trata el tema del que queremos preguntar,
+    es mejor no abrir una incidencia, sino seguir preguntando en la
+    misma. (Si está ya cerrada, podemos responder en esa incidencia y
+    pedir que se abra.)
 
 ### Formato
 
@@ -191,7 +227,7 @@ Cada párrafo se forma no por las líneas en blanco (como sucede en
 `markdown` estándar) sino por cada línea nueva.
 
 Los bloques de código se marcan entre dos líneas de al menos tres
-acentos agudos (`\​\​\`).
+acentos graves (``​`​`​`).
 
 ```
 `​`​`​tex
