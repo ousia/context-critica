@@ -123,6 +123,15 @@ Pueden cerrar una incidencia el administrador o la persona que abrió
 la incidencia. Si la cierra el administrador, sólo la puede volver a
 abrir él. Si la cierra quien la abrió, también la puede volver a abrir.
 
+#### Buenas prácticas
+
+Estas sugerencias no son un intento de reglamentar la actividad de la
+lista. Son sugerencias que tratan de hacer más fácil la tarea a todos
+los participantes, para que el mayor beneficio global con el menor
+esfuerzo personal —menor es comparativo, no es que no haya que
+esforzarse :blush:—.
+
+Es importante
 Se puede responder por correo electrónico a los mensajes recibidos a
 través de correo, aunque no se puedan abrir incidencias así. Si no se
 usa la página de Github, es importante observar dos condiciones:
@@ -153,11 +162,11 @@ Pasajes dentro del párrafo:
 * `**Negrita**` da **negrita**.
 
 * `` `Código` `` da `código` y se marca con el acento agudo (en el
-teclado español hay que pulsar dos veces la tecla para que salga el
-carácter).
+teclado español [en Linux, al menos] hay que pulsar dos veces la tecla
+para que salga el carácter).
 
 Si queremos ponerlos, los títulos van del siguiente modo: por cada
-nivel es un carácter almohadilla (#), al comienzo de la línea y
+nivel es un carácter almohadilla (`#`), al comienzo de la línea y
 separada del título por un espacio.
 
 * `#` es para título de primer nivel.
@@ -172,10 +181,8 @@ Cada párrafo se forma no por las líneas en blanco (como sucede en
 Los bloques de código se marcan entre dos líneas de al menos tres
 acentos agudos (`\​\​\`).
 
-*** acentos y escapar ***
-
 ```
-`​`​`
+`​`​`​tex
 \starttext
 Mi primer documento \ConTeXt
 \stoptext
@@ -198,5 +205,7 @@ https://gist.github.com/
 
 ## Contacto
 
-Si tienes alguna pregunta o comentario sobre este repositorio o la lista, [abre una incidencia](https://github.com/ousia/context-critica/issues/new).
+Si tienes alguna pregunta o comentario sobre este repositorio o la
+lista, [abre una
+incidencia](https://github.com/ousia/context-critica/issues/new).
 
