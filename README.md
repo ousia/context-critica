@@ -295,17 +295,17 @@ la lista carece de sentido.
     en la medida que nos sea posible, pero al pedir ayuda hay que
     tener siempre presente:
 
-    * La ayuda se recibe y se da, no se exige ni se impone. De
-    modo especial en el caso de TeX —aunque pasa con la
-    informática en general—, es especialmente irritante cuando
-    las cosas no funcionan como creemos que deberían y no tenemos
-    la más mínima pista de cómo hacerlas funcionar.
+    * La ayuda se recibe y se da libremente, no se exige ni se impone.
+    De modo especial en el caso de TeX —aunque pasa con la
+    informática en general—, es especialmente irritante cuando las
+    cosas no funcionan como creemos que deberían y no tenemos la más
+    mínima pista de cómo hacerlas funcionar.
 
         Por eso es esencial no perder los nervios con quienes nos
         pretenden ayudar. No se trata de ser autómatas. Es
-        sencillamente que no tienen la culpa de nada, ni están
-        obligados a ayudarnos —aunque lo hagan gustosamente— o
-        mucho menos a aguantarnos.
+        sencillamente que no tienen la culpa de nada, ni tienen
+        obligación de ayudarnos —aunque lo hagan gustosamente— o
+        mucho menos de aguantarnos.
 
         Si algo nos urge, le hemos dedicado mucho tiempo y no
         encontramos la solución, es bueno decirlo —siempre con
@@ -332,7 +332,7 @@ la lista carece de sentido.
         con un buscador la respuesta está en  segundos, mientras que en la
         lista la respuesta tardará al menos media hora —con bastante
         suerte—. Y además acelera nuestro proceso de aprendizaje
-        —siempre personal—.
+        —siempre personal e intransferible—.
 
 ##### Respuestas
 
@@ -345,7 +345,7 @@ que razonablemente no se puede suponer en la otra persona. Y es
 mejor que la explicación sea un poco excesiva, que que se quede corta.
 Así será una ayuda real.
 
-    Además, es importante que la repuesta sea clara para alguien que
+    Además es importante que la repuesta sea clara para alguien que
     lea la incidencia, al llegar a ella por una búsqueda e internet o
     por un enlace.
 
@@ -373,6 +373,8 @@ responde en la página de Github hay una chuleta con el código.
 
 Para quien no sepa, hago un breve resumen, a su vez, de la chuleta.
 
+#### Pasajes de texto
+
 Pasajes dentro del párrafo:
 
 * `_Cursiva_` da _cursiva_.
@@ -383,7 +385,12 @@ Pasajes dentro del párrafo:
 teclado español —en Linux, al menos— hay que pulsar dos veces la tecla
 para que salga el carácter).
 
-Si queremos ponerlos, los títulos van del siguiente modo: por cada
+#### Títulos
+
+En general, los títulos no deberían ser necesarios en los mensajes.
+De todas formas, lo explico.
+
+Si queremos incluirlos, los títulos van del siguiente modo: por cada
 nivel es un carácter almohadilla —`#`—, al comienzo de la línea y
 separada del título por un espacio.
 
@@ -393,8 +400,15 @@ separada del título por un espacio.
 * `####` es para título de cuarto nivel.
 * `#####` es para título de quinto nivel.
 
+#### Bloques
+
+##### Párrafos
+
 Cada párrafo se forma no por las líneas en blanco —como sucede en
-`markdown` estándar—, sino por cada línea nueva.
+`markdown` estándar—, sino por cada línea nueva ---aunque no haya
+línea en blanco en medio---.
+
+##### Bloques de código
 
 Los bloques de código se marcan entre dos líneas de al menos tres
 acentos graves —``​`​`​`—.
@@ -414,6 +428,77 @@ Tiene como resultado:
 Mi primer documento \ConTeXt
 \stoptext
 ```
+
+Es bueno, como se muestra en el código, especificar qué tipo de
+código es, porque así se colorean y son más fáciles de leer.
+
+También es posible marcar bloques de código sangrando las líneas con
+cuatro espacios al comienzo de cada una.
+
+##### Citas separadas
+
+Para citar un párrafo separado hay que añadir un signo «mayor que»
+(`>`) al comienzo del párrafo, seguido de un espacio en blanco.
+
+Debe usarse siempre para citar mensajes anteriores.
+
+El uso es como en este caso:
+
+```
+> Esto es un párrafo citado.
+> Si hay salto de línea, aunque no haya línea en blanco, hay que
+añadir la marca de cita separada.
+```
+
+##### Listas
+
+Las listas numeradas se escriben con números al principio de la
+línea, un punto y un espacio:
+
+```
+1. Primero.
+
+1. Segundo.
+
+1. Tercero.
+```
+
+1. Primero.
+
+1. Segundo.
+
+1. Tercero.
+
+Y las listas punteadas se escriben con asteriscos (`*`):
+
+```
+* Un punto.
+
+* Otro punto.
+
+* Otro punto más.
+```
+
+* Un punto.
+
+* Otro punto.
+
+* Otro punto más.
+
+Ambos tipos de lista se combinan con un sangrado de cuatro espacios en
+las siguientes listas:
+
+```
+1. Primero.
+
+1. Segundo.
+
+1. Tercero.
+```
+
+
+##### Enlaces
+
 
 #### ¿Cómo se incluyen anexos?
 
