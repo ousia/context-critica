@@ -459,13 +459,15 @@ El uso es como en este caso:
 
 ```
 > Esto es un párrafo citado.
-> Si hay salto de línea, aunque no haya línea en blanco, hay que
-añadir la marca de cita separada.
+
+> Si no queremos que nos haga dos citas separadas, hay que añadir > al
+principio de la línea en blanco que esté en medio.
 ```
 
 > Esto es un párrafo citado.
-> Si hay salto de línea, aunque no haya línea en blanco, hay que
-añadir la marca de cita separada.
+
+> Si no queremos que nos haga dos citas separadas, hay que añadir > al
+principio de la línea en blanco que esté en medio.
 
 ##### Listas
 
@@ -473,7 +475,7 @@ Las listas numeradas se escriben con números al principio de la
 línea, un punto y un espacio:
 
 ```
-1. Primero.
+31. Primero.
 
 1. Segundo.
 
