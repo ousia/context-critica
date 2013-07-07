@@ -542,13 +542,17 @@ las siguientes listas:
 Los enlaces pueden ser:
 
 * A usuarios, con la forma `@usuario` (como `@ousia`, que sólo se
-muestra en incidencias.).
+muestra en las incidencias).
 
 * Las direcciones completas se muestran sin necesidad de formato (como
-http://www.ediciones-criticas.tk/, o incluso
-www.ediciones-criticas.tk).
+http://www.ediciones-criticas.tk/)
 
-* La referencia a otras incidencias
+* Podemos hacer otro tipo de enlaces con texto con
+`[texto](http://www.enlace.com)`, como en [este
+ejemplo](http://www.ediciones-criticas.tk/).
+
+* La referencia a otras incidencias se hace con
+`#número-de-incidencia`, como #25.
 
 #### ¿Cómo se incluyen anexos?
 
