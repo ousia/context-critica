@@ -290,50 +290,76 @@ la lista carece de sentido.
     en la medida que nos sea posible, pero al pedir ayuda hay que
     tener siempre presente:
 
-        * La ayuda se recibe y se da, no se exige ni se impone. De
-        modo especial en el caso de TeX —aunque pasa con la
-        informática en general—, es especialmente irritante cuando
-        las cosas no funcionan como creemos que deberían y no tenemos
-        la más mínima pista de cómo hacerlas funcionar.
+    * La ayuda se recibe y se da, no se exige ni se impone. De
+    modo especial en el caso de TeX —aunque pasa con la
+    informática en general—, es especialmente irritante cuando
+    las cosas no funcionan como creemos que deberían y no tenemos
+    la más mínima pista de cómo hacerlas funcionar.
 
-        Por eso es esencial no perder los nervios con quienes nos
-        pretenden ayudar. No se trata de ser autómatas. Es
-        sencillamente que no tienen la culpa de nada, ni están
-        obligados a ayudarnos —aunque lo hagan gustosamente— o
-        mucho menos a aguantarnos.
+    Por eso es esencial no perder los nervios con quienes nos
+    pretenden ayudar. No se trata de ser autómatas. Es
+    sencillamente que no tienen la culpa de nada, ni están
+    obligados a ayudarnos —aunque lo hagan gustosamente— o
+    mucho menos a aguantarnos.
 
-        Si algo nos urge, le hemos dedicado mucho tiempo y no
-        encontramos la solución, es bueno decirlo —siempre con
-        buenas formas—, para que en la medida de lo posible nos
-        ayuden de la mejor manera posible para nosotros mismos.
+    Si algo nos urge, le hemos dedicado mucho tiempo y no
+    encontramos la solución, es bueno decirlo —siempre con
+    buenas formas—, para que en la medida de lo posible nos
+    ayuden de la mejor manera posible para nosotros mismos.
 
-        * Lo que podemos nosotros mismos, no lo tenemos que pedir, lo
-        podemos hacer. Como en todo proceso de aprendizaje, siempre se
-        tiene mayor autonomía cuando más se conoce. Pero lo que
-        podemos hacer nosotros con un esfuerzo razonable —aunque nos
-        cueste un poco—, no debemos pedírselo a otros.
+    * Lo que podemos nosotros mismos, no lo tenemos que pedir, lo
+    podemos hacer. Como en todo proceso de aprendizaje, siempre se
+    tiene mayor autonomía cuando más se conoce. Pero lo que
+    podemos hacer nosotros con un esfuerzo razonable —aunque nos
+    cueste un poco—, no debemos pedírselo a otros.
 
-        Sin ser una requisito, cuando preguntemos es bueno decir que
-        mostremos qué hemos hecho para encontrar la respuesta. Es
-        relevante, ya no por los demás, sino por nosotros, para que
-        aprendamos realmente.
+    Sin ser una requisito, cuando preguntemos es bueno decir que
+    mostremos qué hemos hecho para encontrar la respuesta. O que
+    pidamos orientación para encontrarla. Es relevante, ya no por los
+    demás, sino por nosotros, para que aprendamos realmente.
 
-        Un caso especialmente claro es . Hay un motivo práctico por
-        parte de quien pregunte: con un buscador la respuesta está en
-        segundos, mientras que en la lista la respuesta tardará al
-        menos media hora —con bastante suerte—. Y además acelera
-        nuestro proceso de aprendizaje —siempre personal—.
+    Un caso especialmente claro de lo que no debemos hacer es
+    preguntar que podríamos haber encontrado buscando en internet. Por
+    supuesto, a buscar se aprende, pero siempre debemos intentarlo. Y
+    si no encontramos nada, es bueno decirlo, porque nos pueden
+    aconsejar sobre cómo buscar. Hay un motivo práctico —también
+    egoísta, si queremos— para tratar de buscar antes de preguntar:
+    con un buscador la respuesta está en  segundos, mientras que en la
+    lista la respuesta tardará al menos media hora —con bastante
+    suerte—. Y además acelera nuestro proceso de aprendizaje
+    —siempre personal—.
 
 ##### Respuestas
 
 Para quienes respondan, es bueno no olvidar:
 
-* No suponer conocimientos en quien pregunta.
+* Explicar la respuesta sin suponer conocimientos. Lo difícil de la
+enseñanza y de la efectividad del aprendizaje es tener en cuenta qué
+conoce y qué entiende quien aprende. Por eso importante explicar todo lo
+que razonablemente no se puede suponer en la otra persona. Y es
+mejor que la explicación sea un poco excesiva, que que se quede corta.
+Así será una ayuda real.
 
-* Responder a lo que se pregunta.
+    Además, es importante que la repuesta sea clara para alguien que
+    lea la incidencia, al llegar a ella por una búsqueda e internet o
+    por un enlace.
 
-* Adjuntar un ejemplo mínimo de código que se haya compilado
-correctamente.
+* Responder a lo que se pregunta. Cuando las preguntas son concretas,
+los detalles son relevantes. Es fácil que haya cosas que se puedan
+solucionar de muchas maneras, pero quizá la más útil para quien
+pregunta sea la que se muestra en la pregunta.
+
+    Por supuesto, si no puede ser lo que se plantea en la pregunta,
+    hay que advertirlo y proponer una alternativa ---si la hay---.
+    Pero si consideramos que otra solución es mejor, debemos explicar
+    por qué lo es.
+
+<!-- * Se trata de ayudar, de capacitar a otra persona, no de lucirse. -->
+* Adjuntar un ejemplo mínimo y completo de código que se hayamos
+compilado correctamente. Quien pregunta en principio no sabe. Si le
+damos un código que no hemos compilado, puede que llegue a contener
+errores. Y que la persona no sepa solucionarlos, que suponga que el
+fallo es propio, o que no vuelva a preguntar por vergüenza.
 
 ### Formato
 
@@ -395,6 +421,3 @@ https://gist.github.com/
 Si tienes alguna pregunta o comentario sobre este repositorio o la
 lista, [abre una
 incidencia](https://github.com/ousia/context-critica/issues/new).
-
-
-<!-- stay on topic -->
