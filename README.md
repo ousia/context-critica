@@ -211,7 +211,7 @@ común de intereses.
     * No hay temas prohibidos, pero sí que hay ámbitos inadecuados.
     No es un juego de palabras, es evitar que la conversación propia
     sobre unos intereses específicos comunes se vea amenazada por la
-    cantidad de «ruido» ---información irrelevante--- que se le añada.
+    cantidad de «ruido» —información irrelevante— que se le añada.
 
         Las cuestiones de convicciones —de toda clase— ajenas a la
         filosofía o el desarrollo informático, habitualmente sólo
@@ -225,7 +225,28 @@ común de intereses.
         que tengan sus incidencias propias, pero mucho me temo que en
         la práctica no tendrían gente suficiente.
 
-    * Digresiones
+    * Digresiones, las relevantes. Por supuesto, que hay digresiones
+    muy relevantes de las que aprendemos todos, es una buena
+    disciplina mental no divagar en exceso.
+
+* Seguir las indicaciones. Cuando nos hacen una indicación vinculante
+sobre funcionamiento en la lista, deben seguirse o discutirlas
+—dialogarlas, no enfrentarse dialécticamente a quien las haga— de
+modo razonable y con respeto.
+
+    No me refiero a consejos sobre las cuestiones concretas de la
+    lista, que es bueno seguirlos para que nos puedan seguir ayudando
+    o manifestar por qué no son adecuados.
+
+    Me refiero a indicaciones del tipo de abrir una nueva incidencia,
+    comentar en una incidencia ya abierta —porque la pregunta está
+    ya planteada otra y la nueva incidencia es duplicada—, el
+    abandono de una digresión o un tema, o incluso la rectificación de
+    un comentario.
+
+    Personalmente no tengo ningún interés en hacerle indicaciones a
+    nadie, ni tampoco creo que nadie lo tenga. Pero lo haré cuando sea
+    necesario —espero que nunca lo sea—.
 
 ##### Preguntas
 
@@ -240,7 +261,13 @@ generales que no llegan a cuestionar nada.
     contestar, porque quien está al otro lado desconoce la
     situación ni lee nuestra mente.
 
-* Descripción de los detalles relevantes.
+    Con afirmaciones generales, impedimos que nos ayuden: no porque no
+    quieran, sino porque no pueden.
+
+* Descripción de los detalles relevantes. Obviamente no se trata de
+presentar un informe perfecto sobre el estado de la cuestión. Es algo
+más sencillo: nadie está en nuestra cabeza ni a los mandos de nuestro
+teclado. Y hay detalles que cambian completamente las cosas.
 
 * Ejemplos mínimos de código. No todas las preguntas se refieren
 al código, pero cuando así sea es esencial proporcionar un
@@ -260,7 +287,42 @@ la lista carece de sentido.
     exige aprendizaje, y éste supone un esfuerzo.
 
     La disposición de quienes participamos en la lista es la de ayudar
-    en la medida que nos sea posible
+    en la medida que nos sea posible, pero al pedir ayuda hay que
+    tener siempre presente:
+
+        * La ayuda se recibe y se da, no se exige ni se impone. De
+        modo especial en el caso de TeX —aunque pasa con la
+        informática en general—, es especialmente irritante cuando
+        las cosas no funcionan como creemos que deberían y no tenemos
+        la más mínima pista de cómo hacerlas funcionar.
+
+        Por eso es esencial no perder los nervios con quienes nos
+        pretenden ayudar. No se trata de ser autómatas. Es
+        sencillamente que no tienen la culpa de nada, ni están
+        obligados a ayudarnos —aunque lo hagan gustosamente— o
+        mucho menos a aguantarnos.
+
+        Si algo nos urge, le hemos dedicado mucho tiempo y no
+        encontramos la solución, es bueno decirlo —siempre con
+        buenas formas—, para que en la medida de lo posible nos
+        ayuden de la mejor manera posible para nosotros mismos.
+
+        * Lo que podemos nosotros mismos, no lo tenemos que pedir, lo
+        podemos hacer. Como en todo proceso de aprendizaje, siempre se
+        tiene mayor autonomía cuando más se conoce. Pero lo que
+        podemos hacer nosotros con un esfuerzo razonable —aunque nos
+        cueste un poco—, no debemos pedírselo a otros.
+
+        Sin ser una requisito, cuando preguntemos es bueno decir que
+        mostremos qué hemos hecho para encontrar la respuesta. Es
+        relevante, ya no por los demás, sino por nosotros, para que
+        aprendamos realmente.
+
+        Un caso especialmente claro es . Hay un motivo práctico por
+        parte de quien pregunte: con un buscador la respuesta está en
+        segundos, mientras que en la lista la respuesta tardará al
+        menos media hora —con bastante suerte—. Y además acelera
+        nuestro proceso de aprendizaje —siempre personal—.
 
 ##### Respuestas
 
