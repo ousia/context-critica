@@ -523,15 +523,15 @@ las siguientes listas:
 
 1. Primero.
 
-    * Un punto.
+* Un punto.
 
 1. Segundo.
 
-    * Otro punto.
+* Otro punto.
 
 1. Tercero.
 
-    * Otro punto más.
+* Otro punto más.
 
 
 
