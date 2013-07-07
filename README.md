@@ -208,13 +208,22 @@ por tanto LaTeX, en humanidades; ahora, ya no uso LaTeX y no sé. Ambos
 son lo suficientemente amplios para que quepa lo que es un ámbito
 común de intereses.
 
-    * No hay temas prohibidos, pero sí que hay espacios inadecuados.
+    * No hay temas prohibidos, pero sí que hay ámbitos inadecuados.
+    No es un juego de palabras, es evitar que la conversación propia
+    sobre unos intereses específicos comunes se vea amenazada por la
+    cantidad de «ruido» ---información irrelevante--- que se le añada.
 
-        Las cuestiones de convicciones ---de toda clase--- ajenas a la filosofía o el
-        desarrollo informático, habitualmente sólo producen disputas
-        estériles. En este ámbito están fuera de lugar.
+        Las cuestiones de convicciones —de toda clase— ajenas a la
+        filosofía o el desarrollo informático, habitualmente sólo
+        producen disputas estériles. En este ámbito están fuera de
+        lugar.
 
-        Personalmente
+        En cuanto a otras herramientas ajenas a TeX —como el [Classical Text Editor]
+        (http://cte.oeaw.ac.at/) o
+        [TUSTEP](http://www.tustep.uni-tuebingen.de/)—, es posible
+        que estén fuera de lugar. Personalmente no vería problema en
+        que tengan sus incidencias propias, pero mucho me temo que en
+        la práctica no tendrían gente suficiente.
 
     * Digresiones
 
