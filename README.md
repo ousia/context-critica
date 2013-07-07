@@ -523,20 +523,28 @@ las siguientes listas:
 
 1. Primero.
 
-* Un punto.
+    * Un punto.
 
 1. Segundo.
 
-* Otro punto.
+    * Otro punto.
 
 1. Tercero.
 
-* Otro punto más.
+    * Otro punto más.
 
+1. Tercero.
 
+    * Otro punto más.
 
 ##### Enlaces
 
+Los enlaces pueden ser:
+
+* A usuarios, con la forma `@usuario` (como @ousia).
+
+* Las direcciones completas se muestran sin necesidad de formato (como
+http://www.ediciones-criticas.tk/, pero www.ediciones-criticas.tk).
 
 #### ¿Cómo se incluyen anexos?
 
