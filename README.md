@@ -541,10 +541,14 @@ las siguientes listas:
 
 Los enlaces pueden ser:
 
-* A usuarios, con la forma `@usuario` (como @ousia).
+* A usuarios, con la forma `@usuario` (como `@ousia`, que sólo se
+muestra en incidencias.).
 
 * Las direcciones completas se muestran sin necesidad de formato (como
-http://www.ediciones-criticas.tk/, pero www.ediciones-criticas.tk).
+http://www.ediciones-criticas.tk/, o incluso
+www.ediciones-criticas.tk).
+
+* La referencia a otras incidencias
 
 #### ¿Cómo se incluyen anexos?
 
