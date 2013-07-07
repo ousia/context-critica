@@ -135,8 +135,10 @@ Es importante no olvidar de que esta lista no tiene moderador. Excepto
 en casos excepcionales que espero que no lleguen a darse, no habrá
 moderación de mensajes. Hay un administrador que quiere ocuparse lo
 menos posible de administrar, porque quienes participemos seamos lo
-más autónomos posible. También por una dedicación de tiempo. Si
+más autónomos posible. También por una dedicación de tiempo: si
 exige mucho, me veré obligado a abandonar este proyecto.
+
+##### Generales
 
 En general, hay las siguientes recomendaciones para todos los
 participantes:
@@ -216,44 +218,51 @@ común de intereses.
 
     * Digresiones
 
+##### Preguntas
+
 Para quienes pregunten, se pide lo siguiente:
 
-    * Concreción en la pregunta. Es cierto que aprender a preguntar es
-    algo que se mejora con la práctica, pero hay preguntas tan
-    generales que no llegan a cuestionar nada.
+* Concreción en la pregunta. Es cierto que aprender a preguntar es
+algo que se mejora con la práctica, pero hay preguntas tan
+generales que no llegan a cuestionar nada.
 
-        Especialmente, afirmaciones del estilo «algo no me funciona»
-        o «no me funciona», sin más datos, son imposibles de
-        contestar, porque quien está al otro lado desconoce la
-        situación ni lee nuestra mente.
+    Especialmente, afirmaciones del estilo «algo no me funciona»
+    o «no me funciona», sin más datos, son imposibles de
+    contestar, porque quien está al otro lado desconoce la
+    situación ni lee nuestra mente.
 
-    * Descripción de los detalles relevantes.
+* Descripción de los detalles relevantes.
 
-    * Ejemplos mínimos de código. No todas las preguntas se refieren
-    al código, pero cuando así sea es esencial proporcionar un
-    fragmento de código que muestre el problema.
+* Ejemplos mínimos de código. No todas las preguntas se refieren
+al código, pero cuando así sea es esencial proporcionar un
+fragmento de código que muestre el problema.
 
-        El fragmento ha de ser lo más pequeño posible. Parte del
-        trabajo de elaborar una pregunta supone gastar tiempo en hacer
-        ese ejemplo. Muchas veces ese ejemplo tendremos que hacerlo
-        copiando el archivo que nos da problemas y empezando a borrar
-        líneas.
+    El fragmento ha de ser lo más pequeño posible. Parte del
+    trabajo de elaborar una pregunta supone gastar tiempo en hacer
+    ese ejemplo. Muchas veces ese ejemplo tendremos que hacerlo
+    copiando el archivo que nos da problemas y empezando a borrar
+    líneas.
 
-    * Pedir ayuda no es esperar que te hagan tu trabajo. Esta
-    recomendación resume una actitud sin la que la participación en
-    la lista carece de sentido.
+* Pedir ayuda no es esperar que te hagan tu trabajo. Esta
+recomendación resume una actitud sin la que la participación en
+la lista carece de sentido.
 
-        Es necesario querer aprender. El paso del no saber al saber
-        exige aprendizaje, y éste supone un esfuerzo.
+    Es necesario querer aprender. El paso del no saber al saber
+    exige aprendizaje, y éste supone un esfuerzo.
+
+    La disposición de quienes participamos en la lista es la de ayudar
+    en la medida que nos sea posible
+
+##### Respuestas
 
 Para quienes respondan, es bueno no olvidar:
 
-    * No suponer conocimientos en quien pregunta.
+* No suponer conocimientos en quien pregunta.
 
-    * Responder a lo que se pregunta.
+* Responder a lo que se pregunta.
 
-    * Adjuntar un ejemplo mínimo de código que se haya compilado
-    correctamente.
+* Adjuntar un ejemplo mínimo de código que se haya compilado
+correctamente.
 
 ### Formato
 
