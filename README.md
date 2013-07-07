@@ -404,9 +404,16 @@ separada del título por un espacio.
 
 ##### Párrafos
 
-Cada párrafo se forma no por las líneas en blanco —como sucede en
-`markdown` estándar—, sino por cada línea nueva ---aunque no haya
-línea en blanco en medio---.
+Cada párrafo se forma por todas las líneas que no tengan una línea
+en blanco en medio.
+
+```
+Esto es un párrafo.
+Sólo uno.
+
+Y esto es otro.
+También sólo otro
+```
 
 ##### Bloques de código
 
