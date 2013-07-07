@@ -164,7 +164,7 @@ correo, por los siguientes motivos:
     información innecesaria.
 
 * Si no se usa la página de Github y se responde por correo
-electrónico, es importante observar dos condiciones:
+electrónico, es importante observar dos prácticas:
 
     * Si se cita el mensaje original, es importante borrar toda la
     información del mensaje original que no citemos directamente.
@@ -174,7 +174,7 @@ electrónico, es importante observar dos condiciones:
         lo que sea estrictamente necesario para contestar.
 
     * El fragmento del mensaje original debe citarse primero para
-    permitir quien lea seguir la coherencia lógica de una respuesta.
+    permitir a quien lea seguir la coherencia lógica de una respuesta.
 
     Como regla general, creo que es buena idea responder con un mensaje
     vacío al responder por correo electrónico.
@@ -184,23 +184,27 @@ respeto a las personas —es condición esencial e indiscutible;
 entiendo que también universalmente compartida— y concreción en las
 preguntas o respuestas.
 
-* Un asunto por incidencia. Eso supone tres cosas:
+* Una pregunta por incidencia. Eso supone tres cosas:
 
-    * Los asuntos deben ser lo más específicos posibles.
+    * Las preguntas deben ser lo más específicos posibles.
 
-        Por ejemplo, ediciones críticas en ConTeXt no es un asunto.
+        Por ejemplo, ediciones críticas en ConTeXt no es una pregunta
+        —en realidad, es uno de los temas de la lista; sino _el_
+        tema—.
 
-    * Si una incidencia contiene más de un asunto, es mejor abrir otra
-    incidencia.
+    * Si una incidencia contiene más de una pregunta independiente, es
+    mejor abrir otra incidencia.
 
-    * Si una incidencia ya trata el tema del que queremos preguntar,
-    es mejor no abrir una incidencia, sino seguir preguntando en la
-    misma. (Si está ya cerrada, podemos responder en esa incidencia y
-    pedir que se reabra.)
+    * Si una incidencia ya trata la pregunta del que queremos plantear,
+    es mejor no abrir una incidencia, sino seguir comentando en la
+    anterior. (Si está ya cerrada, podemos responder en esa incidencia
+    y pedir que se reabra.)
 
     Por supuesto, estas reglas tienen una finalidad de organizar lo
-    mejor posible para su consulta. Es cuestión de aplicarlas de modo
-    razonable, no de seguirlas ciegamente.
+    mejor posible para su consulta —por parte de quien plantea la
+    pregunta en el momento y por quien la pueda consultar en el
+    futuro—. Es cuestión de aplicarlas de modo razonable, no de
+    seguirlas ciegamente.
 
 * Centrarse en el tema. El tema general de esta lista es ConTeXt y las
 humanidades. Personalmente no tengo ningún problema en que sea TeX, y
@@ -350,7 +354,7 @@ solucionar de muchas maneras, pero quizá la más útil para quien
 pregunta sea la que se muestra en la pregunta.
 
     Por supuesto, si no puede ser lo que se plantea en la pregunta,
-    hay que advertirlo y proponer una alternativa ---si la hay---.
+    hay que advertirlo y proponer una alternativa —si la hay—.
     Pero si consideramos que otra solución es mejor, debemos explicar
     por qué lo es.
 
