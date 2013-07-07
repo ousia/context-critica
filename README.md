@@ -129,24 +129,36 @@ Estas sugerencias no son un intento de reglamentar la actividad de la
 lista. Son sugerencias que tratan de hacer más fácil la tarea a todos
 los participantes, para que el mayor beneficio global con el menor
 esfuerzo personal —menor es comparativo, no es que no haya que
-esforzarse :blush:—.
+esforzarse :blush:—
 
-Es importante
-Se puede responder por correo electrónico a los mensajes recibidos a
+Es importante no olvidar de que esta lista no tiene moderador. Excepto
+en casos excepcionales que espero que no lleguen a darse, no habrá
+moderación de mensajes. Hay un administrador que quiere ocuparse lo
+menos posible de administrar, porque quienes participemos seamos lo
+más autónomos posible. También por una dedicación de tiempo. Si
+exige mucho, me veré obligado a abandonar este proyecto.
+
+En general, hay las siguientes recomendaciones para todos los
+participantes:
+
+* Aunque puede responderse a incidencias por correo electrónico, mi
+recomendación personal es que
+
+* Se puede responder por correo electrónico a los mensajes recibidos a
 través de correo, aunque no se puedan abrir incidencias así. Si no se
 usa la página de Github, es importante observar dos condiciones:
 
-* Si se cita el mensaje original, es importante borrar toda la
-información del mensaje original que no citemos directamente.
+    * Si se cita el mensaje original, es importante borrar toda la
+    información del mensaje original que no citemos directamente.
 
-    En la incidencia se verá el mensaje al que se contesta, porque
-    en la página de la incidencia está arriba. Sólo debe dejarse lo
-    que sea estrictamente necesario para contestar.
+        En la incidencia se verá el mensaje al que se contesta, porque
+        en la página de la incidencia está arriba. Sólo debe dejarse
+        lo que sea estrictamente necesario para contestar.
 
-* El fragmento del mensaje original debe citarse primero para permitir
-quien lea seguir la coherencia lógica de una respuesta.
+    * El fragmento del mensaje original debe citarse primero para
+    permitir quien lea seguir la coherencia lógica de una respuesta.
 
-Como regla general, creo que es buena idea responder con un mensaje vacío.
+    Como regla general, creo que es buena idea responder con un mensaje vacío.
 
 ### Formato
 
