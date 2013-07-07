@@ -405,7 +405,7 @@ separada del título por un espacio.
 ##### Párrafos
 
 Cada párrafo se forma por todas las líneas que no tengan una línea
-en blanco en medio.
+en blanco en medio ---exactamente igual que en TeX---.
 
 ```
 Esto es un párrafo.
@@ -414,6 +414,12 @@ Sólo uno.
 Y esto es otro.
 También sólo otro
 ```
+Esto es un párrafo.
+Sólo uno.
+
+Y esto es otro.
+También sólo otro
+
 
 ##### Bloques de código
 
