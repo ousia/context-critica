@@ -152,7 +152,7 @@ Pasajes dentro del párrafo:
 
 * `**Negrita**` da **negrita**.
 
-* ``​`Código`​`` da `código` y se marca con el acento agudo (en el
+* `` `Código` `` da `código` y se marca con el acento agudo (en el
 teclado español hay que pulsar dos veces la tecla para que salga el
 carácter).
 
