@@ -585,7 +585,7 @@ veinte líneas debe anexarse para no entorpecer la lectura.
     anónimos, pero no es mala idea publicarlos con nuestro usuario,
     porque así los podremos borrar si fuese necesario. Así también
     los podremos editar después de crearlos. Si no quieres que los
-    encuentre cualquiera —no que no los pueda ver si tiene la
+    encuentre cualquiera —no impide el acceso si se tiene la
     dirección completa—, deben publicarse secretos.
 
     Es importante tener en cuenta que en un mismo _gist_ pueden
