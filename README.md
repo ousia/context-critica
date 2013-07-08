@@ -504,7 +504,9 @@ Y las listas punteadas se escriben con asteriscos (`*`):
 
 * Otro punto más.
 
-Las listas parece que no se pueden combinar en Github —o se me pasa
+Las listas se pueden combinar siempre que sean del mismo tipo
+—numeradas con numeradas y punteadas con punteadas—. Las listas de
+distinto tipo parece que no se pueden combinar en Github —o se me pasa
 algo por alto—.
 
 <!--
