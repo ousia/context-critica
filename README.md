@@ -405,7 +405,7 @@ separada del título por un espacio.
 ##### Párrafos
 
 Cada párrafo se forma por todas las líneas que no tengan una línea
-en blanco en medio ---exactamente igual que en TeX---.
+en blanco en medio —exactamente igual que en TeX—.
 
 ```
 Esto es un párrafo.
@@ -414,6 +414,7 @@ Sólo uno.
 Y esto es otro.
 También sólo otro
 ```
+
 Esto es un párrafo.
 Sólo uno.
 
@@ -539,6 +540,14 @@ las siguientes listas:
 
 ##### Enlaces
 
+ 1. Primero.
+
+      * Un punto.
+
+ 2. Segundo.
+
+      * Otro punto.
+
 Los enlaces pueden ser:
 
 * A usuarios, con la forma `@usuario` (como `@ousia`, que sólo se
@@ -552,13 +561,42 @@ http://www.ediciones-criticas.tk/)
 ejemplo](http://www.ediciones-criticas.tk/).
 
 * La referencia a otras incidencias se hace con
-`#número-de-incidencia`, como #25.
+`#número-de-incidencia`, como `#25`, pero aquí no se muestra (a otros
+proyectos sería `usuario/proyecto#número-de-incidencia`, como en
+`jgm/pandoc#3`).
 
 #### ¿Cómo se incluyen anexos?
 
-Github no permite anexos a los mensajes
+Github no permite anexos a los mensajes. Entiendo que hay dos
+situaciones en las que pueden necesitarse.
 
-https://gist.github.com/
+* Imágenes —únicamente, de momento, `.png`, `.gif` y `.jpg`—, se
+arrastran y sueltan sobre el lugar que queramos colocarlas. Así se
+incorporan automáticamente.
+
+    De documentos generados por ordenador o de capturas de pantalla,
+    es mejor usar `.png`. Es más eficiente para este tipo de imágenes.
+
+    Espero que `.pdf` o `.svg` puedan incorporarse pronto.
+
+* Código que no sea un ejemplo mínimo. Todo lo que exceda las
+veinte líneas debe anexarse para no entorpecer la lectura.
+
+    Para eso debemos usar [Gist](https://gist.github.com). Son páginas
+    donde pueden ponerse fragmentos más grandes de texto. Pueden ser
+    anónimos, pero no es mala idea publicarlos con nuestro usuario,
+    porque así los podremos borrar si fuese necesario. Así también
+    los podremos editar después de crearlos. Si no quieres que los
+    encuentre cualquiera —no que no los pueda ver si tiene la
+    dirección completa—, deben publicarse secretos.
+
+    Es importante tener en cuenta que en un mismo _gist_ pueden
+    incluirse varios archivos, esto es, textos separados e
+    independientes, pero con una única referencia. También permiten
+    comentarios en la misma página del _gist_.
+
+    Los enlaces a los _gist_ son como enlaces externos, esto es, bien
+    ``, bien `` ---con resultado
 
 ## Contacto
 
