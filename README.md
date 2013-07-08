@@ -237,9 +237,9 @@ sobre funcionamiento en la lista, deben seguirse o discutirlas
 —dialogarlas, no enfrentarse dialécticamente a quien las haga— de
 modo razonable y con respeto.
 
-    No me refiero a consejos sobre las cuestiones concretas de la
-    lista, que es bueno seguirlos para que nos puedan seguir ayudando
-    o manifestar por qué no son adecuados.
+    No me refiero a consejos sobre las cuestiones de contenido, que es
+    bueno seguirlos para que nos puedan seguir ayudando o manifestar
+    por qué no son adecuados.
 
     Me refiero a indicaciones del tipo de abrir una nueva incidencia,
     comentar en una incidencia ya abierta —porque la pregunta está
@@ -299,11 +299,10 @@ la lista carece de sentido.
     cosas no funcionan como creemos que deberían y no tenemos la más
     mínima pista de cómo hacerlas funcionar.
 
-        Por eso es esencial no perder los nervios con quienes nos
-        pretenden ayudar. No se trata de ser autómatas. Es
-        sencillamente que no tienen la culpa de nada, ni tienen
-        obligación de ayudarnos —aunque lo hagan gustosamente— o
-        mucho menos de aguantarnos.
+        Por eso es esencial no perder los nervios con quienes tratan de
+        ayudarnos. No se trata de ser autómatas. Es sencillamente que
+        no tienen la culpa de nada, ni tienen obligación de ayudarnos
+        —aunque lo hagan gustosamente— o mucho menos de aguantarnos.
 
         Si algo nos urge, le hemos dedicado mucho tiempo y no
         encontramos la solución, es bueno decirlo —siempre con
