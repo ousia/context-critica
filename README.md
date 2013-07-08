@@ -141,10 +141,6 @@ exige mucho, me veré obligado a cerrar esta lista.
 En general, hay las siguientes recomendaciones para todos los
 participantes:
 
-1. a
-
-    1. b
-
 * Aunque puede responderse a incidencias por correo electrónico —no
 se pueden abrir por este medio—, mi recomendación personal es que no
 se responda por correo, por los siguientes motivos:
@@ -188,7 +184,7 @@ preguntas o respuestas.
 
 * Una pregunta por incidencia. Eso supone tres cosas:
 
-    * Las preguntas deben ser lo más específicos posibles.
+    * Las preguntas deben ser lo más específicas posibles.
 
         Por ejemplo, ediciones críticas en ConTeXt no es una pregunta
         —en realidad, es uno de los temas de la lista; sino _el_
