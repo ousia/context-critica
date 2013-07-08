@@ -505,8 +505,8 @@ Y las listas punteadas se escriben con asteriscos (`*`):
 
 * Otro punto más.
 
-Las listas parece que no se pueden combinar ---o a mí me falla algo que
-no entiendo---.
+Las listas parece que no se pueden combinar en Github —o se me pasa
+algo por alto—.
 
 <!--
 Ambos tipos de lista se combinan con un sangrado de cuatro espacios en
@@ -594,9 +594,9 @@ veinte líneas debe anexarse para no entorpecer la lectura.
 
     Los enlaces a los _gist_ son como enlaces externos, esto es, bien
     `https://gist.github.com/ousia/5944105`, bien `[código de
-    prueba](https://gist.github.com/ousia/5b012eb29425e3a20353)` ---con
+    prueba](https://gist.github.com/ousia/5b012eb29425e3a20353)` —con
     resultado https://gist.github.com/ousia/5944105 o [código de
-    prueba](https://gist.github.com/ousia/5b012eb29425e3a20353)---.
+    prueba](https://gist.github.com/ousia/5b012eb29425e3a20353)—.
 
 ## Contacto
 
