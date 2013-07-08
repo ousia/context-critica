@@ -442,8 +442,8 @@ Mi primer documento \ConTeXt
 ```
 
 Es bueno, como se muestra en el código, especificar qué tipo de
-código es —en este caso, con `` `​`​`​tex`—, porque así se
-colorean y son más fáciles de leer.
+código es —en este caso, con `​tex` como se muestra en el
+texto—, porque así se colorean y son más fáciles de leer.
 
 También es posible marcar bloques de código sangrando las líneas con
 cuatro espacios al comienzo de cada una.
