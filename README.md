@@ -300,24 +300,25 @@ la lista carece de sentido.
     mínima pista de cómo hacerlas funcionar.
 
         Por eso es esencial no perder los nervios con quienes tratan de
-        ayudarnos. No se trata de ser autómatas. Es sencillamente que
-        no tienen la culpa de nada, ni tienen obligación de ayudarnos
-        —aunque lo hagan gustosamente— o mucho menos de aguantarnos.
+        ayudarnos. No es cuestión de de ser autómatas. Es
+        sencillamente que no tienen la culpa de nada, ni tienen
+        obligación de ayudarnos —aunque lo hagan gustosamente— o
+        mucho menos de aguantarnos.
 
         Si algo nos urge, le hemos dedicado mucho tiempo y no
         encontramos la solución, es bueno decirlo —siempre con
         buenas formas—, para que en la medida de lo posible nos
-        ayuden de la mejor manera posible para nosotros mismos.
+        ayuden de la manera más eficiente y eficaz.
 
-    * Lo que podemos nosotros mismos, no lo tenemos que pedir, lo
-    podemos hacer. Como en todo proceso de aprendizaje, siempre se
+    * Lo que podamos nosotros mismos, no lo tenemos que pedir, lo
+    tenemos que hacer. Como en todo proceso de aprendizaje, siempre se
     tiene mayor autonomía cuando más se conoce. Pero lo que
     podemos hacer nosotros con un esfuerzo razonable —aunque nos
     cueste un poco—, no debemos pedírselo a otros.
 
-        Sin ser una requisito, cuando preguntemos es bueno decir que
-        mostremos qué hemos hecho para encontrar la respuesta. O que
-        pidamos orientación para encontrarla. Es relevante, ya no por los
+        Sin ser una requisito, cuando preguntemos es bueno que digamos
+        qué hemos hecho para encontrar la respuesta. O que pidamos
+        orientación para encontrarla. Es relevante, ya no por los
         demás, sino por nosotros, para que aprendamos realmente.
 
         Un caso especialmente claro de lo que no debemos hacer es
@@ -342,7 +343,7 @@ que razonablemente no se puede suponer en la otra persona. Y es
 mejor que la explicación sea un poco excesiva, que que se quede corta.
 Así será una ayuda real.
 
-    Además es importante que la repuesta sea clara para alguien que
+    Además es importante que la respuesta sea clara para alguien que
     lea la incidencia, al llegar a ella por una búsqueda e internet o
     por un enlace.
 
@@ -441,7 +442,8 @@ Mi primer documento \ConTeXt
 ```
 
 Es bueno, como se muestra en el código, especificar qué tipo de
-código es, porque así se colorean y son más fáciles de leer.
+código es —en este caso, con ` `​`​`​tex`—, porque así se
+colorean y son más fáciles de leer.
 
 También es posible marcar bloques de código sangrando las líneas con
 cuatro espacios al comienzo de cada una.
