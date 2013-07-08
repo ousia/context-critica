@@ -87,8 +87,8 @@ aquellos mensajes en que alguien nos mencione.
 Para cancelar la suscripción lo que hay que hacer es seleccionar
 cualquiera de las otras dos opciones que nos muestra la imagen —en
 [este proyecto](https://github.com/ousia/context-critica)—. Si no se
-quiere recibir mensaje alguno de la lista, es necesario seleccionar
-_Ignoring_.
+quiere recibir mensaje alguno de la lista —incluso cuando se mencione
+su nombre de usuario—, es necesario seleccionar _Ignoring_.
 
 <!-- ### Compromiso de participación
 
@@ -113,11 +113,9 @@ Es importante advertir que todos los mensajes a la lista son públicos
 —no pueden ser privados—. Por tanto, no tiene sentido mandar
 información privada a la lista.
 
-Es necesario abrir una incidencia para poder iniciar un hilo. En
-principio, la idea es que las incidencias relacionadas con la lista no
-se cierren. Así se pueden retomar en cualquier momento. Aunque una
-incidencia esté cerrada, pueden hacerse comentarios —y pedir que se
-reabra—.
+Es necesario abrir una incidencia para poder iniciar un hilo. Las
+incidencias se pueden retomar en cualquier momento. Incluso aunque
+estén cerradas pueden hacerse comentarios —y pedir que se reabran—.
 
 Pueden cerrar una incidencia el administrador o la persona que abrió
 la incidencia. Si la cierra el administrador, sólo la puede volver a
@@ -136,16 +134,20 @@ en casos excepcionales que espero que no lleguen a darse, no habrá
 moderación de mensajes. Hay un administrador que quiere ocuparse lo
 menos posible de administrar, porque quienes participemos seamos lo
 más autónomos posible. También por una dedicación de tiempo: si
-exige mucho, me veré obligado a abandonar este proyecto.
+exige mucho, me veré obligado a cerrar esta lista.
 
 ##### Generales
 
 En general, hay las siguientes recomendaciones para todos los
 participantes:
 
+1. a
+
+    1. b
+
 * Aunque puede responderse a incidencias por correo electrónico —no
-abrirlas—, mi recomendación personal es que no se responda por
-correo, por los siguientes motivos:
+se pueden abrir por este medio—, mi recomendación personal es que no
+se responda por correo, por los siguientes motivos:
 
     * En la página se puede previsualizar el contenido antes de
     publicarlo.
