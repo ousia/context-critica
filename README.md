@@ -577,15 +577,16 @@ incorporan automáticamente.
 
     Espero que `.pdf` o `.svg` puedan incorporarse pronto.
 
-* Código que no sea un ejemplo mínimo. Todo lo que exceda las
-veinte líneas debe anexarse para no entorpecer la lectura.
+* Los fragmentos de código que tengan una cierta magnitud, o cuando
+necesitemos incluir varios archivos de texto sobre un mismo tema,
+pueden anexarse para no entorpecer la lectura del hilo.
 
-    Para eso debemos usar [Gist](https://gist.github.com). Son páginas
-    donde pueden ponerse fragmentos más grandes de texto. Pueden ser
-    anónimos, pero no es mala idea publicarlos con nuestro usuario,
-    porque así los podremos borrar si fuese necesario. Así también
-    los podremos editar después de crearlos. Si no quieres que los
-    encuentre cualquiera —no impide el acceso si se tiene la
+    Para anexar archivos de textto, podemos usar [Gist](https://gist.github.com).
+    Son páginas donde pueden ponerse fragmentos más grandes de texto.
+    Pueden ser anónimos, pero no es mala idea publicarlos con nuestro
+    usuario, porque así los podremos borrar si fuese necesario. Así
+    también los podremos editar después de crearlos. Si no quieres
+    que los encuentre cualquiera —no impide el acceso si se tiene la
     dirección completa—, deben publicarse secretos.
 
     Es importante tener en cuenta que en un mismo _gist_ pueden
