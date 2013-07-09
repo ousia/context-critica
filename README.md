@@ -423,7 +423,7 @@ También sólo otro
 ##### Bloques de código
 
 Los bloques de código se marcan entre dos líneas de al menos tres
-acentos graves —``​`​`​`—.
+acentos graves —`` `​`​`​ ``—.
 
 ```
 `​`​`​tex
