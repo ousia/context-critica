@@ -182,8 +182,6 @@ p.tagline {
   filter:alpha(opacity=1);
 }
 
-.flash_presentation { text-align: center; }
-
 .current-section {
   position: fixed;
   top: 0;

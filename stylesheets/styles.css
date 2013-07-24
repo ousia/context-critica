@@ -302,6 +302,8 @@ footer p + p {
   float: right;
 }
 
+.flash_presentation { text-align: center; }
+
 @media print, screen and (max-width: 740px) {
   body {
     padding: 0;
