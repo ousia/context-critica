@@ -182,6 +182,8 @@ p.tagline {
   filter:alpha(opacity=1);
 }
 
+.flash_presentation { text-align: center; }
+
 .current-section {
   position: fixed;
   top: 0;
@@ -579,5 +581,3 @@ footer .owner p a {
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
-
-.flash_presentation { text-align: center }
