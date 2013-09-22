@@ -1,9 +1,9 @@
-# Ediciones críticas en ConTeXt – http://www.ediciones-criticas.tk
+# Ediciones críticas con ConTeXt – http://www.ediciones-criticas.tk
 
-Este repositorio contendrá una introducción —en forma de de artículo— sobre la generación de ediciones
-críticas en ConTeXt.
+Este repositorio contiene una introducción —en forma de de
+artículo— sobre la generación de ediciones críticas con ConTeXt.
 
-Espero poder actualizarlo en breve. Mientras tanto aconsejo ver la presentación [en la página](http://www.ediciones-criticas.tk/).
+Sólo hay que visitar [la página](http://www.ediciones-criticas.tk/).
 
 ## Contacto
 
